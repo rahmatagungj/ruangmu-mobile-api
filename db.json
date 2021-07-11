@@ -48,7 +48,7 @@
     "Notification": [
       {
         "Key": "1",
-        "Image": "",
+        "Image": "https://raw.githubusercontent.com/rahmatagungj/ruangmu-mobile-api/master/assets/user.png",
         "Name": "Rahmat Agung Julians",
         "Content":
           "Terima kasih sudah membantu dalam pengetesan aplikasi, jika memiliki ide atau kesalahan pada aplikasi harap hubungi pengembang di instagram.com/rahmatagungj.",
@@ -56,7 +56,7 @@
       },
       {
         "key": "2",
-        "Image": "",
+        "Image": "https://raw.githubusercontent.com/rahmatagungj/ruangmu-mobile-api/master/assets/alertNotification.png",
         "Name": "Sistem",
         "Content": "Aplikasi sedang dalam tahap pengembangan.",
         "Time": "2 Jam yang lalu"
