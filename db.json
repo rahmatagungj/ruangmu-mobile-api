@@ -44,5 +44,22 @@
         "Details":
           "Jelaskan pengertian profesi guru dan kenapa perlu profesionalisasi dalam pendidikan."
       }
+    ],
+    "Notification": [
+      {
+        "Key": "1",
+        "Image": "",
+        "Name": "Rahmat Agung Julians",
+        "Content":
+          "Terima kasih sudah membantu dalam pengetesan aplikasi, jika memiliki ide atau kesalahan pada aplikasi harap hubungi pengembang di instagram.com/rahmatagungj.",
+        "Time": "1 Jam yang lalu"
+      },
+      {
+        "key": "2",
+        "Image": "",
+        "Name": "Sistem",
+        "Content": "Aplikasi sedang dalam tahap pengembangan.",
+        "Time": "2 Jam yang lalu"
+      }
     ]    
 }
