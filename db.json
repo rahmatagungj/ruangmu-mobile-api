@@ -24,5 +24,25 @@
           "Teacher": "AJENG RAHAYU TRESNA DEWI, M.PD.",
           "Picture": "https://raw.githubusercontent.com/rahmatagungj/ruangmu-mobile-api/master/assets/ajeng.png"
         }
+    ],
+    "Task": [
+      {
+        "Name": "ERNA JUHERNA, M.PD.I.",
+        "Picture": "https://raw.githubusercontent.com/rahmatagungj/ruangmu-mobile-api/master/assets/erna.png",
+        "Task": "Pembelajaran untuk anak",
+        "Date": "1 Juli 2021",
+        "Deadline": "23 Juli 2021",
+        "Details":
+          "Sebutkan macam - macam metode untuk pembelajaran kepada anak, setiap metode wajib diberikan contoh."
+      },
+      {
+        "Name": "IRFAN FAJRUL FALAH, M.PD.",
+        "Picture": "https://raw.githubusercontent.com/rahmatagungj/ruangmu-mobile-api/master/assets/irfan.png",
+        "Task": "Keguruan",
+        "Date": "5 Juli 2021",
+        "Deadline": "15 Juli 2021",
+        "Details":
+          "Jelaskan pengertian profesi guru dan kenapa perlu profesionalisasi dalam pendidikan."
+      }
     ]    
 }
