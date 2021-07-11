@@ -4,25 +4,25 @@
           "bgColor": "#bd3725",
           "Name": "Model - Model Pembelajaran",
           "Teacher": "ERNA JUHERNA, M.PD.I.",
-          "Picture": "../assets/erna.png"
+          "Picture": "../../../assets/erna.png"
         },
         {
           "bgColor": "#7782FD",
           "Name": "Bahasa Inggris Dasar",
           "Teacher": "BADROENI, M.PD.",
-          "Picture": "../assets/badroeni.jpg"
+          "Picture": "../../../assets/badroeni.jpg"
         },
         {
           "bgColor": "#F8B748",
           "Name": "Etika Profesi Keguruan",
           "Teacher": "IRFAN FAJRUL FALAH, M.PD.",
-          "Picture": "../assets/irfan.png"
+          "Picture": "../../../assets/irfan.png"
         },
         {
           "bgColor": "#02B078",
           "Name": "Teori - Teori Pembelajaran",
           "Teacher": "AJENG RAHAYU TRESNA DEWI, M.PD.",
-          "Picture": "../assets/ajeng.png"
+          "Picture": "../../../assets/ajeng.png"
         }
     ]    
 }
