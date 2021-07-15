@@ -35,6 +35,24 @@
           "Name": "Etika Profesi Keguruan",
           "Teacher": "IRFAN FAJRUL FALAH, M.PD",
           "Picture": "https://raw.githubusercontent.com/rahmatagungj/ruangmu-mobile-api/master/assets/irfan.png"
+        },
+        {
+          "bgColor": "#5ebf3b",
+          "Name": "Fisafat Pendidikan",
+          "Teacher": "AGUS SAEFUL ANWAR, M.PD",
+          "Picture": "https://raw.githubusercontent.com/rahmatagungj/ruangmu-mobile-api/master/assets/agus.png"
+        },
+        {
+          "bgColor": "#3fcc81",
+          "Name": "Media Pembelajaran TIK",
+          "Teacher": "AHMAD FAJRI LUTFI, M.KOM",
+          "Picture": "https://raw.githubusercontent.com/rahmatagungj/ruangmu-mobile-api/master/assets/fajri.png"
+        },
+        {
+          "bgColor": "#e6923e",
+          "Name": "Pemrograman Visual",
+          "Teacher": "ASEP MAHPUDIN, M.KOM",
+          "Picture": "https://raw.githubusercontent.com/rahmatagungj/ruangmu-mobile-api/master/assets/asep.png"
         }
     ],
     "Task": [
