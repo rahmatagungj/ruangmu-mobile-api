@@ -65,19 +65,19 @@
     "Banner": [
       {
         "title": "Selamat Hari Lebaran",
-        "url": "http://upmk.ac.id/media/1620695709idulfitri1442h.png",
+        "url": "https://raw.githubusercontent.com/rahmatagungj/ruangmu-mobile-api/master/assets/banner1.png",
         "description": "Selamat hari lebaran dari STKIP Muhammadiyah Kuningan",
         "id": 1
       },
       {
         "title": "Penerimaan Mahasiswa Baru",
-        "url": "http://upmk.ac.id/media/1619147269PMB%20Flyer%20Web.png",
+        "url": "https://raw.githubusercontent.com/rahmatagungj/ruangmu-mobile-api/master/assets/banner2.png",
         "description": "STKIP Muhammadiyah menerima mahasiswa baru",
         "id": 2
       },
       {
         "title": "Prestasi",
-        "url": "http://upmk.ac.id/media/1620273258slidepkm2021.png",
+        "url": "https://raw.githubusercontent.com/rahmatagungj/ruangmu-mobile-api/master/assets/banner3.png",
         "description": "Prestasi STKIP Muhammadiyah",
         "id": 3
       }
