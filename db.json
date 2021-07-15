@@ -3,26 +3,38 @@
         {
           "bgColor": "#bd3725",
           "Name": "Model - Model Pembelajaran",
-          "Teacher": "ERNA JUHERNA, M.PD.I.",
+          "Teacher": "ERNA JUHERNA, M.PD.I",
           "Picture": "https://raw.githubusercontent.com/rahmatagungj/ruangmu-mobile-api/master/assets/erna.png"
+        },
+        {
+          "bgColor": "#1ea7d9",
+          "Name": "Jaringan Komputer",
+          "Teacher": "SOFHIAN FAZRIN NASRULLOH, S.PD., M.ENG",
+          "Picture": "https://raw.githubusercontent.com/rahmatagungj/ruangmu-mobile-api/master/assets/sofyan.jpg"
         },
         {
           "bgColor": "#7782FD",
           "Name": "Bahasa Inggris Dasar",
-          "Teacher": "BADROENI, M.PD.",
+          "Teacher": "BADROENI, M.PD",
           "Picture": "https://raw.githubusercontent.com/rahmatagungj/ruangmu-mobile-api/master/assets/badroeni.jpg"
         },
         {
           "bgColor": "#F8B748",
-          "Name": "Etika Profesi Keguruan",
-          "Teacher": "IRFAN FAJRUL FALAH, M.PD.",
-          "Picture": "https://raw.githubusercontent.com/rahmatagungj/ruangmu-mobile-api/master/assets/irfan.png"
+          "Name": "Konsep Dasar IPS",
+          "Teacher": "NUNU NURFIRDAUS, M.PD",
+          "Picture": "https://raw.githubusercontent.com/rahmatagungj/ruangmu-mobile-api/master/assets/nunu.png"
         },
         {
           "bgColor": "#02B078",
           "Name": "Teori - Teori Pembelajaran",
-          "Teacher": "AJENG RAHAYU TRESNA DEWI, M.PD.",
+          "Teacher": "AJENG RAHAYU TRESNA DEWI, M.PD",
           "Picture": "https://raw.githubusercontent.com/rahmatagungj/ruangmu-mobile-api/master/assets/ajeng.png"
+        },
+        {
+          "bgColor": "#F8B748",
+          "Name": "Etika Profesi Keguruan",
+          "Teacher": "IRFAN FAJRUL FALAH, M.PD",
+          "Picture": "https://raw.githubusercontent.com/rahmatagungj/ruangmu-mobile-api/master/assets/irfan.png"
         }
     ],
     "Task": [
