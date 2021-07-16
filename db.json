@@ -77,7 +77,7 @@
     ],
     "Notification": [
       {
-        "Key": "1",
+        "Key": "1stkip",
         "Image": "https://raw.githubusercontent.com/rahmatagungj/ruangmu-mobile-api/master/assets/stkip-circle.jpg",
         "Name": "STKIP Muhammadiyah Kuningan",
         "Content":
@@ -85,7 +85,7 @@
         "Time": "22 Jam yang lalu"
       },
       {
-        "Key": "2",
+        "Key": "2rajs",
         "Image": "https://raw.githubusercontent.com/rahmatagungj/ruangmu-mobile-api/master/assets/user.png",
         "Name": "Rahmat Agung Julians",
         "Content":
