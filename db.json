@@ -78,18 +78,19 @@
     "Notification": [
       {
         "Key": "1",
+        "Image": "https://raw.githubusercontent.com/rahmatagungj/ruangmu-mobile-api/master/assets/stkip-circle.jpg",
+        "Name": "STKIP Muhammadiyah Kuningan",
+        "Content":
+          "Pendaftaran Calon PRESMA & Calon WAPRESMA BEM STKIP Muhammadiyah Kuningan secara resmi ditutup. Terima kasih kepada para Mahasiswa yang sudah mendaftar, sampai jumpa di rangkaian acara selanjutnya 👋.",
+        "Time": "22 Jam yang lalu"
+      },
+      {
+        "Key": "2",
         "Image": "https://raw.githubusercontent.com/rahmatagungj/ruangmu-mobile-api/master/assets/user.png",
         "Name": "Rahmat Agung Julians",
         "Content":
           "Terima kasih sudah membantu dalam pengetesan aplikasi, jika memiliki ide atau kesalahan pada aplikasi harap hubungi pengembang di instagram.com/rahmatagungj.",
-        "Time": "1 Jam yang lalu"
-      },
-      {
-        "key": "2",
-        "Image": "https://raw.githubusercontent.com/rahmatagungj/ruangmu-mobile-api/master/assets/alertNotification.png",
-        "Name": "Sistem",
-        "Content": "Aplikasi sedang dalam tahap pengembangan.",
-        "Time": "2 Jam yang lalu"
+        "Time": "1 Hari yang lalu"
       }
     ],
     "Banner": [
