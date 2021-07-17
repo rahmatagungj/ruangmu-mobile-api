@@ -74,43 +74,5 @@
         "Details":
           "Jelaskan pengertian profesi guru dan kenapa perlu profesionalisasi dalam pendidikan."
       }
-    ],
-    "Notification": [
-      {
-        "Key": "1stkip",
-        "Image": "https://raw.githubusercontent.com/rahmatagungj/ruangmu-mobile-api/master/assets/stkip-circle.jpg",
-        "Name": "STKIP Muhammadiyah Kuningan",
-        "Content":
-          "Pendaftaran Calon PRESMA & Calon WAPRESMA BEM STKIP Muhammadiyah Kuningan secara resmi ditutup. Terima kasih kepada para Mahasiswa yang sudah mendaftar, sampai jumpa di rangkaian acara selanjutnya 👋.",
-        "Time": "22 Jam yang lalu"
-      },
-      {
-        "Key": "2rajs",
-        "Image": "https://raw.githubusercontent.com/rahmatagungj/ruangmu-mobile-api/master/assets/user.png",
-        "Name": "Rahmat Agung Julians",
-        "Content":
-          "Terima kasih sudah membantu dalam pengetesan aplikasi, jika memiliki ide atau kesalahan pada aplikasi harap hubungi pengembang di instagram.com/rahmatagungj.",
-        "Time": "1 Hari yang lalu"
-      }
-    ],
-    "Banner": [
-      {
-        "title": "Selamat Hari Lebaran",
-        "url": "https://raw.githubusercontent.com/rahmatagungj/ruangmu-mobile-api/master/assets/banner1.png",
-        "description": "Selamat hari lebaran dari STKIP Muhammadiyah Kuningan",
-        "id": 1
-      },
-      {
-        "title": "Penerimaan Mahasiswa Baru",
-        "url": "https://raw.githubusercontent.com/rahmatagungj/ruangmu-mobile-api/master/assets/banner2.png",
-        "description": "STKIP Muhammadiyah menerima mahasiswa baru",
-        "id": 2
-      },
-      {
-        "title": "Prestasi",
-        "url": "https://raw.githubusercontent.com/rahmatagungj/ruangmu-mobile-api/master/assets/banner3.png",
-        "description": "Prestasi STKIP Muhammadiyah",
-        "id": 3
-      }
     ]
 }
